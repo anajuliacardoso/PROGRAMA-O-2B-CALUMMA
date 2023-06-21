@@ -1,10 +1,7 @@
-header{
-
-    background-color: #0A1451;
-    color: #ffffff;
-    display: flex;
-    
+body{
+    background-color: rgb(214, 133, 26);
 }
+
 
 .imagem-logo {
     width: 50px;
@@ -12,4 +9,9 @@ header{
     margin: 20px;
     padding: 20pg;
 
+}
+.secao-1{
+    width: 1000000px;
+    margin-left: 550px;
+    margin-top: -150px;
 }
